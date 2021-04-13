@@ -9,3 +9,4 @@ Labs and topics:
 7. Binary Minimum Heap
 10. Graph
 11. Graph -- but with time/memory requirements
+Additionally, a few sorting algorithms with time/mem requirements.
